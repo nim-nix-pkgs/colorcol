@@ -9,7 +9,7 @@
   
   inputs.src-colorcol-master.flake = false;
   inputs.src-colorcol-master.owner = "SolitudeSF";
-  inputs.src-colorcol-master.ref   = "refs/heads/master";
+  inputs.src-colorcol-master.ref   = "master";
   inputs.src-colorcol-master.repo  = "colorcol";
   inputs.src-colorcol-master.type  = "github";
   
