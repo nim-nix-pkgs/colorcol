@@ -9,7 +9,7 @@
   
   inputs.src-colorcol-v0_4_0.flake = false;
   inputs.src-colorcol-v0_4_0.owner = "SolitudeSF";
-  inputs.src-colorcol-v0_4_0.ref   = "refs/tags/v0.4.0";
+  inputs.src-colorcol-v0_4_0.ref   = "v0_4_0";
   inputs.src-colorcol-v0_4_0.repo  = "colorcol";
   inputs.src-colorcol-v0_4_0.type  = "github";
   
