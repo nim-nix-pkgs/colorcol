@@ -11,6 +11,7 @@
   inputs.src-colorcol-v0_3_4.ref   = "refs/tags/v0.3.4";
   inputs.src-colorcol-v0_3_4.owner = "SolitudeSF";
   inputs.src-colorcol-v0_3_4.repo  = "colorcol";
+  inputs.src-colorcol-v0_3_4.dir   = "";
   inputs.src-colorcol-v0_3_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
