@@ -11,7 +11,6 @@
   inputs.src-colorcol-v0_3_0.ref   = "refs/tags/v0.3.0";
   inputs.src-colorcol-v0_3_0.owner = "SolitudeSF";
   inputs.src-colorcol-v0_3_0.repo  = "colorcol";
-  inputs.src-colorcol-v0_3_0.dir   = "";
   inputs.src-colorcol-v0_3_0.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";

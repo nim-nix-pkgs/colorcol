@@ -11,7 +11,6 @@
   inputs.src-colorcol-master.ref   = "refs/heads/master";
   inputs.src-colorcol-master.owner = "SolitudeSF";
   inputs.src-colorcol-master.repo  = "colorcol";
-  inputs.src-colorcol-master.dir   = "";
   inputs.src-colorcol-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
